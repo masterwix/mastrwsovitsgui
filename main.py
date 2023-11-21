@@ -112,8 +112,7 @@ def action_button_config():
     config_path_entry.insert(0, config_path_current if config_path_current else "")
     config_path_entry.pack()
 
-    button_browse_config = tk.Button(config_window, text="Browse", command=select_config_path)
-    button_browse_config.pack()
+
 
     label_raw_path = tk.Label(config_window, text="Enter the Raw Dataset Path:")
     label_raw_path.pack()
@@ -123,8 +122,6 @@ def action_button_config():
     raw_path_entry.insert(0, raw_path_current if raw_path_current else "")
     raw_path_entry.pack()
 
-    button_browse_raw = tk.Button(config_window, text="Browse", command=select_raw_dataset_path)
-    button_browse_raw.pack()
 
     def save_config():
         config_path = config_path_entry.get()
