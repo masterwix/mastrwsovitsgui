@@ -1,7 +1,8 @@
 # mastrwsovitsgui
 sovits voice clone gui
 **just run "main.py"** and config the paths
-![image](https://github.com/masterwix/mastrwsovitsgui/assets/5401263/e7c52026-9913-48d5-be11-f2105ba1d902)
+
+
 
 ![image](https://github.com/masterwix/mastrwsovitsgui/assets/5401263/1968159a-e84d-432f-a0d9-93a3521710f9)
 
