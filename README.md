@@ -4,7 +4,7 @@ sovits voice clone gui
 ![image](https://github.com/masterwix/mastrwsovitsgui/assets/5401263/e7c52026-9913-48d5-be11-f2105ba1d902)
 
 
-"This Python software, tested on Linux, aims to simplify the utilization of Sovits - voice cloning. You can download Sovits from here: https://github.com/voicepaw/so-vits-svc-fork."
+"This Python software, tested on Linux, aims to simplify the utilization of Sovits - voice cloning for train tasks. You can download Sovits from here: https://github.com/voicepaw/so-vits-svc-fork."
 
 
 
