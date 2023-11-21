@@ -6,7 +6,7 @@ sovits voice clone gui
 
 "This Python software, tested on Linux, aims to simplify the utilization of Sovits - voice cloning for train tasks. You can download Sovits from here: https://github.com/voicepaw/so-vits-svc-fork."
 
-**just run "main.py"**
+**just run "main.py"** ann config the paths
 
 
 
