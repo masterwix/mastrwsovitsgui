@@ -1,12 +1,14 @@
 # mastrwsovitsgui
 sovits voice clone gui
-
+**just run "main.py"** and config the paths
 ![image](https://github.com/masterwix/mastrwsovitsgui/assets/5401263/e7c52026-9913-48d5-be11-f2105ba1d902)
+![image](https://github.com/masterwix/mastrwsovitsgui/assets/5401263/e7ca79c4-87e3-4f60-ab41-a36afbb3c00b)
+
 
 
 "This Python software, tested on Linux, aims to simplify the utilization of Sovits - voice cloning for train tasks. You can download Sovits from here: https://github.com/voicepaw/so-vits-svc-fork."
 
-**just run "main.py"** ann config the paths
+
 
 
 
