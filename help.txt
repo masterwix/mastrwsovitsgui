@@ -1,0 +1,18 @@
+User Manual:
+
+    Icon number 1, the first on the left, represents the svc pre-resample command.
+    The second icon corresponds to the svc pre-config command.
+    The third icon stands for svc pre-hubert.
+    The fourth icon represents the train command.
+
+Ensure that all your WAV files are in mono format. In the configuration, make sure that your raw dataset location is correctly set. You'll only see the config.json file created in /configs/44k after running the second step. Before this, the Advanced Configuration won't be accessible.
+
+Disclaimer: Use of Software
+
+The use of this software is at the sole risk and discretion of the user. The creator disclaims any association or affiliation with Sovits or Sovits Fork. This software is provided as-is, and any modifications or adaptations are allowed without restrictions.
+
+Please note that this software might contain bugs or errors. The creator does not guarantee its performance or suitability for any specific purpose.
+
+If you find this software useful or enjoyable, you are welcome to show your appreciation by buying a coffee. Donations can be made via PayPal to pedroni1270@gmail.com.
+
+By using this software, you acknowledge and agree to these terms. The creator bears no responsibility for any consequences arising from the use or misuse of this software.
